@@ -7,7 +7,7 @@
 
 - 👨‍💻 Previous Project: [Interview Experience](https://official-interview-experience.netlify.app)
 
-- 👨‍💻 All of my projects are available at [https://suhaan-bhandary.github.io/suhaan-portfolio/](https://suhaan-bhandary.github.io/suhaan-portfolio/)
+- 👨‍💻 All of my projects are available at [https://suhaan-bhandary.vercel.app](https://suhaan-bhandary.vercel.app)
 
 - 💬 Ask me about **React, Express, Javascript, Python, C++, DSA**
 
