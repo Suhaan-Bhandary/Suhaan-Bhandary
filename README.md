@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MElv22A8TgCONYDvVROQiPF-O5TuD2s7/view?usp=sharing](https://drive.google.com/file/d/1MElv22A8TgCONYDvVROQiPF-O5TuD2s7/view?usp=sharing)
 
-- ⚡ Fun fact **It doesn't matter what others say, choose what you love Dev/Development; only Hard Work and Consistency counts**
+- ⚡ Fun fact **It doesn't matter what others say, choose what you love DSA/Development; only Hard Work and Consistency counts**
 
 <hr>
 
