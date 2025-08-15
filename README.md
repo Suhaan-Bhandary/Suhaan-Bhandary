@@ -30,6 +30,11 @@
 **Tools & Platforms**  
 [![My Skills](https://skillicons.dev/icons?i=git,github,postman,vim,vite,md,replit&theme=dark)](https://skillicons.dev)
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## Checkout My Latest Blogs
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suhaanbhandary1/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suhaanbhandary1/0" alt="Recent Article 0"></a>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suhaanbhandary1/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suhaanbhandary1/1" alt="Recent Article 1"></a>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suhaanbhandary1/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suhaanbhandary1/2" alt="Recent Article 2"></a> <br>
 
