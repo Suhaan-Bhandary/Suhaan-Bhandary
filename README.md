@@ -19,16 +19,10 @@
 ## Tech Stack
 
 **Languages**  
-[![My Skills](https://skillicons.dev/icons?i=js,ts,go,python,cpp,html,css&theme=dark)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=go,ts,js,python,cpp&theme=dark)](https://skillicons.dev)  
 
 **Frameworks & Libraries**  
-[![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,express,django,tailwind&theme=dark)](https://skillicons.dev)  
-
-**Databases & Deployment**  
-[![My Skills](https://skillicons.dev/icons?i=mongodb,redis,vercel,netlify&theme=dark)](https://skillicons.dev)  
-
-**Tools & Platforms**  
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vim,vite,md,replit&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,express,django,tailwind&theme=dark)](https://skillicons.dev)  
 
 ## Checkout My Latest Blogs
 
